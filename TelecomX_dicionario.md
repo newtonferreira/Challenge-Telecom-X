@@ -8,7 +8,7 @@
 * `Dependents`: se o cliente possui ou não dependentes
 * `tenure`:  meses de contrato do cliente
 * `PhoneService`: assinatura de serviço telefônico 
-* `MultipleLines`: assisnatura de mais de uma linha de telefone 
+* `MultipleLines`: assinatura de mais de uma linha de telefone 
 * `InternetService`: assinatura de um provedor internet 
 * `OnlineSecurity`: assinatura adicional de segurança online 
 * `OnlineBackup`: assinatura adicional de backup online 
