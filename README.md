@@ -1,6 +1,6 @@
 # Telecom X
 
-Este repositório contém um projeto prático realizado como parte do curso de **Data Science** no programa **Oracle Next Education - Alura**. O objetivo é analisar dados de clientes de uma empresa fictícia de telecomunicações chamada **Telecom X**, visando entender as causas do alto índice de evasão (churn) dos clientes.
+Este repositório contém um estudo de caso (com desafio prático) integrante do curso do programa **Oracle Next Education - Alura**. O objetivo é analisar dados de clientes de uma empresa fictícia de telecomunicações chamada **Telecom X**, visando entender as causas do alto índice de evasão (churn) dos clientes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
@@ -9,7 +9,7 @@ Este repositório contém um projeto prático realizado como parte do curso de *
 
 ##  Objetivo
 
-O principal desafio é aplicar os conceitos de **ETL (Extração, Transformação e Carga)** e **EDA (Análise Exploratória de Dados)** para identificar padrões comportamentais e características que influenciam a saída dos clientes da empresa.
+O principal objetivo do desafio prático proposto é aplicar os conceitos de **ETL (Extração, Transformação e Carga)** e **EDA (Análise Exploratória de Dados)** para identificar padrões comportamentais e características que influenciam a evasão dos clientes da empresa.
 
 ---
 
@@ -53,17 +53,10 @@ O principal desafio é aplicar os conceitos de **ETL (Extração, Transformaçã
 
 ##  Sobre o Curso
 
-Este projeto foi desenvolvido como parte do **curso de Data Science** do programa [Oracle Next Education (ONE)](https://www.oracle.com/br/education/oracle-next-education/) em parceria com a [Alura](https://www.alura.com.br/), com foco em ETL, análise exploratória e geração de relatórios.
-
----
-
-##  Autor
-
-- **Nome**: _Ana Julia Toriani Pessoa_
--  LinkedIn: [Seu Perfil](https://linkedin.com/in/ajtp)
+Este projeto foi desenvolvido como parte do programa [Oracle Next Education (ONE)] em parceria com a [Alura], com foco em ETL, análise exploratória e geração de relatórios.
 
 ---
 
 ##  Licença
 
-Este projeto é apenas para fins educacionais e não deve ser utilizado comercialmente. Todos os direitos reservados ao autor e à Alura/Oracle como formadores da base educacional.
+Este projeto, embora público, é apenas para fins educacionais e não deve ser utilizado comercialmente. 
