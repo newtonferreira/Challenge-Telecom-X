@@ -1,4 +1,4 @@
-# Telecom X
+# CHALLENGE Telecom X
 
 Este repositório contém um estudo de caso (com desafio prático) integrante do curso do programa **Oracle Next Education - Alura**. O objetivo é analisar dados de clientes de uma empresa fictícia de telecomunicações chamada **Telecom X**, visando entender as causas do alto índice de evasão (churn) dos clientes.
 
