@@ -1,4 +1,4 @@
-#### Dicionário de dados
+#### Dicionário
 
 * `customerID`: número de identificação único de cada cliente
 * `Churn`: se o cliente deixou ou não a empresa 
