@@ -2,9 +2,6 @@
 
 Este repositório contém um estudo de caso (com desafio prático) integrante do curso do programa **Oracle Next Education - Alura**. O objetivo é analisar dados de clientes de uma empresa fictícia de telecomunicações chamada **Telecom X**, visando entender as causas do alto índice de evasão (churn) dos clientes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
-
 ---
 
 ##  Objetivo
@@ -34,7 +31,7 @@ O principal objetivo do desafio prático proposto é aplicar os conceitos de **E
 ##  Principais Insights
 
 - Clientes com **contratos mensais** são os que mais cancelam.
-- A **maior parte do churn acontece nos primeiros 12 meses**.
+- A maior parte da evasão acontece nos **primeiros 12 meses**.
 - Clientes com serviços como **segurança online e suporte técnico** têm menor evasão.
 - Pagamento via **métodos eletrônicos** aumenta a probabilidade de churn.
 
